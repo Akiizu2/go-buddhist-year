@@ -3,5 +3,5 @@
 #### Usage
 
 ```
-  fmt.Println(ConvertTimeToBuddhist(1539095519)) // <--  9 ต.ค. 2561
+  fmt.Println(ConvertTimeToBuddhist(1539095519)) // <--  10 ต.ค. 2561
 ```
