@@ -2,8 +2,9 @@
 
 ## Description
 Utility for Convert UNIX time to Buddhist year format.
+
 **Ex.**
-1539095519 --- convert to ---> 10 ต.ค. 2561
+from **1539095519** to **10 ต.ค. 2561**
 
 #### Installing
 
