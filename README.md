@@ -1,5 +1,11 @@
 ### This library is still under development.
 
+#### Installing
+
+```
+  go get -u github.com/Akiizu2/go-buddhist-year/buddhistyear
+```
+
 #### Usage
 
 ```
