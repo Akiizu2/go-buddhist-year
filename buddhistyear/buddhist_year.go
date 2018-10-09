@@ -14,8 +14,8 @@ func getMonthInThai(monthNum string) string {
 	return MonthName[month]
 }
 
-// ConvertTimeToBuddhist => Convert Unix Time to Buddhist Year Format
-func ConvertTimeToBuddhist(originalTime int) string {
+// ConvertUNIXTimeToBuddhistFormat => Convert Unix Time to Buddhist Year Format
+func ConvertUNIXTimeToBuddhistFormat(originalTime int) string {
 	timeUnix := originalTime + (3600 * 7) // <-- Convert to GMT+7 Time
 	if timeUnix == 0 {
 		return "-"
